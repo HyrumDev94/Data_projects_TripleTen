@@ -21,7 +21,7 @@ Produced a clean, consistent dataset ready for analysis and modeling, improving 
 
 <img width="888" height="449" alt="Screenshot 2025-10-20 at 3 22 53 PM" src="https://github.com/user-attachments/assets/9087b5e8-a1cd-4576-9499-18dc7deca454" />
 
-
+## View Project: [Notebook](https://github.com/HyrumDev94/Data_projects_TripleTen/blob/main/data_cleaning/25ef8da9-6c14-4615-b68f-f7ceffea2b02%20(1).ipynb)
 
 ##  Future Improvements
 
