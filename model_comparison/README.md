@@ -16,3 +16,11 @@ The Random Forest model achieved the highest overall performance, offering stron
 
 **Files:**  
 - `model_comparison.ipynb`
+
+## Future Improvements
+
+- Apply hyperparameter tuning (GridSearchCV or RandomizedSearchCV) to further optimize model accuracy and reduce overfitting.  
+- Add feature selection or dimensionality reduction (e.g., PCA or SelectKBest) to evaluate which features contribute most to model performance.  
+- Deploy the trained model via a simple API endpoint or Streamlit app to make predictions interactively.  
+- Incorporate cross-validation and ROC curve comparison for a more robust evaluation across multiple models.
+
