@@ -16,3 +16,8 @@ Produced a clean, consistent dataset ready for analysis and modeling, improving 
 
 **Files:**  
 - `data_cleaning.ipynb`
+##  Future Improvements
+
+- Automate the data cleaning workflow using Python scripts or a reproducible pipeline (e.g., Prefect or Airflow) to handle larger datasets efficiently.  
+- Integrate automated quality checks and data validation (using libraries like `pandera` or `great_expectations`) to catch missing values or outliers before analysis.  
+- Build a simple dashboard that visualizes cleaning metrics (e.g., missing data percentage or duplicates over time) to monitor data health interactively.
