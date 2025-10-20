@@ -17,6 +17,14 @@ The Random Forest model achieved the highest overall performance, offering stron
 **Files:**  
 - `model_comparison.ipynb`
 
+## View Project: [Notebook](https://github.com/HyrumDev94/Data_projects_TripleTen/blob/main/model_comparison/notebook-2.ipynb)
+
+
+<img width="885" height="510" alt="Screenshot 2025-10-20 at 3 27 55 PM" src="https://github.com/user-attachments/assets/fd9ea803-8115-4e1e-a6ea-6c9894d82d25" />
+<img width="887" height="563" alt="Screenshot 2025-10-20 at 3 28 16 PM" src="https://github.com/user-attachments/assets/8aaa5dc6-699a-40dc-86bf-a889ddbf18b0" />
+
+
+
 ## Future Improvements
 
 - Apply hyperparameter tuning (GridSearchCV or RandomizedSearchCV) to further optimize model accuracy and reduce overfitting.  
