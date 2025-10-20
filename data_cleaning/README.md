@@ -16,6 +16,13 @@ Produced a clean, consistent dataset ready for analysis and modeling, improving 
 
 **Files:**  
 - `data_cleaning.ipynb`
+
+<img width="885" height="537" alt="Screenshot 2025-10-20 at 3 23 24 PM" src="https://github.com/user-attachments/assets/b87eb231-1bc2-4c2b-8dbc-7eeadcf84452" />
+
+<img width="888" height="449" alt="Screenshot 2025-10-20 at 3 22 53 PM" src="https://github.com/user-attachments/assets/9087b5e8-a1cd-4576-9499-18dc7deca454" />
+
+
+
 ##  Future Improvements
 
 - Automate the data cleaning workflow using Python scripts or a reproducible pipeline (e.g., Prefect or Airflow) to handle larger datasets efficiently.  
