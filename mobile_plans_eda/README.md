@@ -20,6 +20,13 @@ The analysis identified measurable differences in user spending patterns between
 **Files:**  
 - `mobile_plans_eda.ipynb`
 
+
+
+<img width="908" height="767" alt="Screenshot 2025-10-20 at 3 26 01 PM" src="https://github.com/user-attachments/assets/8a46145b-0395-476d-b363-cdf4f900c097" />
+<img width="901" height="702" alt="Screenshot 2025-10-20 at 3 26 23 PM" src="https://github.com/user-attachments/assets/ad42c568-089c-4962-8b42-6c53e67da3d2" />
+
+
+
 ## View Project [Notebook](https://github.com/HyrumDev94/Data_projects_TripleTen/blob/main/mobile_plans_eda/f95e0262-f610-4e6b-9daa-f66d08cb72c1.ipynb)
 
 ## Future Improvements
