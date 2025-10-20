@@ -1,7 +1,7 @@
-# Data Projects – TripleTen Portfolio
+# Data Projects – TripleTen Portfolio  
 
 Welcome to my collection of data science projects completed during the TripleTen Data Science Bootcamp.  
-Each project highlights skills in Python, SQL, hypothesis testing, data visualization, and machine learning.
+Each project highlights skills in Python, SQL, hypothesis testing, data visualization, and machine learning.  
 
 ---
 
@@ -11,66 +11,65 @@ Each project highlights skills in Python, SQL, hypothesis testing, data visualiz
 3. [Coin Toss App (Streamlit)](#coin-toss-app-streamlit)
 4. [Car Ads Dashboard](#car-ads-dashboard)
 5. [Mobile Plans: Usage & Revenue Analysis](#mobile-plans-usage--revenue-analysis)
-6. [A/B Test Mini-Study](#ab-test-mini-study)
-7. [Model Comparison (Classification)](#model-comparison-classification)
-8. [Data Cleaning & Missing Data Visualization](#data-cleaning--missing-data-visualization)
+6. [Model Comparison (Classification)](#model-comparison-classification)
+7. [Data Cleaning & Missing Data Visualization](#data-cleaning--missing-data-visualization)
 
 ---
 
-## Video Game Sales Analysis
+## Video Game Sales Analysis  
+*(Sprint 5 – Integrated Project 1)*  
 **Goal:** Explore global video game sales to identify regional trends and platform performance.  
 **Skills Used:** pandas, matplotlib, hypothesis testing, data visualization  
-**Repository:** [View Project](https://github.com/HyrumDev94/video-game-sales-analysis)
+**Repository:** [View Project](https://github.com/HyrumDev94/video-game-sales-analysis)  
 
 ---
 
-## Customer Churn Prediction
+## Customer Churn Prediction  
+*(Sprint 7 – Machine Learning in Business)*  
 **Goal:** Predict telecom customer churn using logistic regression and random forest models.  
 **Skills Used:** scikit-learn, feature engineering, model evaluation  
-**Repository:** [View Project](https://github.com/HyrumDev94/customer-churn-prediction)
+**Repository:** [View Project](https://github.com/HyrumDev94/customer-churn-prediction)  
 
 ---
 
-## Coin Toss App (Streamlit)
+## Coin Toss App (Streamlit)  
+*(Sprint 4 – Software Development Tools)*  
 **Goal:** Develop and deploy an interactive app simulating coin flips with live visual stats.  
 **Skills Used:** Streamlit, Python, data visualization, user interaction  
-**Repository:** [View Project](https://github.com/HyrumDev94/coin-toss-app)
+**Repository:** [View Project](https://github.com/HyrumDev94/coin-toss-app)  
 
 ---
 
-## Car Ads Dashboard
+## Car Ads Dashboard  
+*(Sprint 6 – Data Collection and Storage)*  
 **Goal:** Build an interactive dashboard to analyze car listings and pricing trends.  
-**Skills Used:** Python, visualization, dashboard design, data exploration  
-**Repository:** [View Project](https://github.com/HyrumDev94/car-ads-dashboard)
+**Skills Used:** Python, SQL, visualization, dashboard design  
+**Repository:** [View Project](https://github.com/HyrumDev94/car-ads-dashboard)  
 
 ---
 
-## Mobile Plans: Usage & Revenue Analysis
+## Mobile Plans: Usage & Revenue Analysis  
+*(Sprint 3 – Statistical Data Analysis)*  
 **Goal:** Examine user behavior and revenue performance for two mobile plans.  
 **Skills Used:** pandas, matplotlib, statistical testing  
-**Folder:** [mobile_plans_eda](./mobile_plans_eda)
+**Folder:** [mobile_plans_eda](./mobile_plans_eda)  
 
 ---
 
-## A/B Test Mini-Study
-**Goal:** Compare user engagement metrics between two variants.  
-**Skills Used:** experiment design, hypothesis testing, p-values  
-**Folder:** [ab_test_mini](./ab_test_mini)
-
----
-
-## Model Comparison (Classification)
+## Model Comparison (Classification)  
+*(Sprint 7 – Machine Learning in Business)*  
 **Goal:** Evaluate performance of multiple classification models for predictive accuracy.  
 **Skills Used:** scikit-learn, cross-validation, metrics (F1, AUC)  
-**Folder:** [model_comparison](./model_comparison)
+**Folder:** [model_comparison](./model_comparison)  
 
 ---
 
-## Data Cleaning & Missing Data Visualization
+## Data Cleaning & Missing Data Visualization  
+*(Sprint 5 – Integrated Project 1)*  
 **Goal:** Prepare datasets for analysis by identifying and addressing missing or anomalous values.  
 **Skills Used:** pandas, data cleaning, visualization  
-**Folder:** [data_cleaning](./data_cleaning)
+**Folder:** [data_cleaning](./data_cleaning)  
 
 ---
 
-⭐️ *Each project demonstrates hands-on experience with Python, data analysis, and machine learning techniques.*
+⭐️ *Each project demonstrates hands-on experience applying data science techniques across exploratory analysis, statistical testing, and machine learning.*
